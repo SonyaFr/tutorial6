@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\dev2\project\lab2\tutorial6\tutorial6\Source.cpp(94,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  tutorial6.vcxproj -> C:\dev2\project\lab2\tutorial6\x64\Debug\tutorial6.exe
